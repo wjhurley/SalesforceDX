@@ -10,6 +10,7 @@
 /build
 
 # Salesforce scratch orgs
+/.sfdx
 
 # misc
 .DS_Store
